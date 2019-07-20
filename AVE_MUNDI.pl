@@ -1,0 +1,5 @@
+
+use Lingua::Romana::Perligata;
+
+SIC AVE MUNDI CIS DICTUM TUM NOVUMVERSUM EGRESSO SCRIBE.
+
